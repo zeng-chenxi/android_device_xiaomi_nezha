@@ -1,1 +1,16 @@
+# Bluetooth
+bluetooth.device.default_name=Xiaomi 17 Ultra
 
+# Display
+persist.sys.miui_resolution=1220,2656,520
+ro.vendor.mi_sf.supported_automode_maxfps_list=60,120
+ro.vendor.touchfeature.type=247
+
+# Fingerprint
+persist.vendor.fingerprint.type=udfps
+persist.vendor.fingerprint.sensor_location=600|2290|109
+
+# Marketname
+ro.product.marketname=Xiaomi 17 Ultra
+# USB
+vendor.usb.product_string=Xiaomi 17 Ultra
